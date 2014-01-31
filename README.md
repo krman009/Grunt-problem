@@ -1,3 +1,5 @@
+# SOLVED
+
 ### Explanation of problem I'm having with `Grunt`
 
 #### When I run `grunt` in my `Node.js command prompt`... It gives me this error...
