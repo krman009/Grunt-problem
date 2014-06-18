@@ -1,4 +1,4 @@
-# SOLVED
+## SOLVED
 
 > Explanation of problem I was having with `Grunt`
 
@@ -10,3 +10,5 @@
   + `npm install -g grunt-cli`  
   + `npm install grunt --save-dev` **(In folder)**
   + `npm install grunt-contrib-sass --save-dev` **(In folder)**
+
+[I've submitted issue on gruntjs/grunt.](https://github.com/gruntjs/grunt/issues/1051)
